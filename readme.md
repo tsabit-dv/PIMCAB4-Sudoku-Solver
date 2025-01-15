@@ -14,7 +14,7 @@ Repositori ini berisi implementasi *solver* Sudoku dalam bahasa C++ yang diranca
 
 1.  Buka situs web OnlineGDB: [https://www.onlinegdb.com/](https://www.onlinegdb.com/)
 
-2.  Salin seluruh kode C++ (`sudoku.cpp`) dari repositori ini.
+2.  Salin seluruh kode C++ (`main.cpp`) dari repositori ini.
 
 3.  Tempelkan kode tersebut ke *editor* kode di OnlineGDB.
 
@@ -41,7 +41,7 @@ di mana `0` merepresentasikan sel kosong.
 
 ## Struktur Kode
 
-*   `sudoku.cpp`: Berisi kode sumber C++ untuk *solver* Sudoku.
+*   `main.cpp`: Berisi kode sumber C++ untuk *solver* Sudoku.
 
 ## Fungsi-fungsi Utama
 
